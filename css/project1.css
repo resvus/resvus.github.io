@@ -26,6 +26,7 @@ h2 {
     font-weight:normal;
     margin:50px;
     margin-bottom:40px;
+    clear:left;
 }
 
 h4 {
@@ -110,4 +111,24 @@ p {
 	
 	clear:left;
 
+}
+.work{
+    text-align:center;
+    padding-bottom:40px;
+    background-color: #0e1733;
+    clear:left;
+    padding-top:10px;
+    color:white;
+}
+.work ul{
+    list-style-type:none;
+    padding: 0;
+
+}
+.work a{
+    font-size: 16px;
+    font-family: "AvenirNext-Regular",Arial,sans-serif;
+}
+.work h2{
+    color:white;
 }
