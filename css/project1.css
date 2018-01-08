@@ -114,7 +114,7 @@ p {
 }
 .work{
     text-align:center;
-    padding-bottom:40px;
+    padding-bottom:20px;
     background-color: #0e1733;
     clear:left;
     padding-top:10px;
@@ -131,4 +131,6 @@ p {
 }
 .work h2{
     color:white;
+    margin:20px;
+    margin-bottom:20px;
 }
